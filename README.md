@@ -11,5 +11,4 @@ This activity will help to reinforce learning of the Module 2 concepts of:
 
 Taranpreet Singh
 
-## Additional Information
 
